@@ -1,1 +1,1 @@
-"# flask_skeleton" 
+"# flask_skeleton_BLUEPRINTS" 
